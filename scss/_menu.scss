@@ -39,7 +39,7 @@
     
     &.open {
       transform: rotate(720deg);
-      background: transperent;
+      background: transparent;
       
       &::before {
         transform: rotate(45deg) translate(5px, 8px);
@@ -50,7 +50,6 @@
         transform: rotate(-45deg) translate( 3px, -7px);
       }
     }
-    
   }
 }
 

@@ -2,6 +2,9 @@
 @import 'home';
 @import 'menu';
 @import 'about';
+@import 'projects';
+@import 'contact';
+@import 'responsive';
 
 body{
   background: $primary-color;
@@ -54,7 +57,8 @@ main{
 footer{
   font-size: 1rem;
   position: fixed;
-  bottom: 1rem;
+  bottom: 0.4rem;
+  right: 1rem;
   text-align: right;
   padding: 1rem;
   color: set-text-color($primary-color);
