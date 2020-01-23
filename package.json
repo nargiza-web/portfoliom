@@ -1,0 +1,22 @@
+{
+  "name": "portfoliom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nargiza-web/portfoliom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nargiza-web/portfoliom/issues"
+  },
+  "homepage": "https://github.com/nargiza-web/portfoliom",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
