@@ -415,7 +415,7 @@
   margin-top: 2rem;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 825px) {
   .menu-btn {
     visibility: hidden;
   }
@@ -438,7 +438,7 @@
     font-size: 1.5rem;
   }
   .about__bio {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
   .projects__bio-image {
     height: 40vh;
