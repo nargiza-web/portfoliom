@@ -1,4 +1,17 @@
-# portfoliom
-## my basic portfolio 
+# My Portfolio
+---
+___
+## Static website show casing of all my projects and a little bit about me as well
+
+## Site Preview:
+
+![Portfolio]()
+
+## Live link:
+[Portfolio](https://naku.dev)
+
 ## Featured programs:
-* HTML, SASS, CSS, JavaScript
+* HTML
+* CSS
+* SCSS
+* JavaScript
